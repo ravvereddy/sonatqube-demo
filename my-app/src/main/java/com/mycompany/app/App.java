@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  *
  */
-public class App 
+#public class App 
 {
     public static void main( String[] args )
     {
@@ -26,4 +26,4 @@ public class App
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
     }
-#}
+}
